@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.KWANP.SRIPHAT",
+               "sha256_cert_fingerprints": ["93:AB:9C:21:A1:17:D3:91:C1:DE:87:7D:DF:32:EB:27:A4:95:BD:D2:07:A8:48:DC:CF:C4:AB:00:F1:76:E5:38"] }
+}]
